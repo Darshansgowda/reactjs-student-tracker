@@ -24,8 +24,6 @@ class Footer extends Component {
                 </div>
               </div>
             </form>
-
-
             <div className="social_icon col-md-4 offset-md-1">
               <h4>Connect With Us</h4>
               <SocialIcon url="https://twitter.com/" className="foot-icon" />
