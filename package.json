@@ -43,5 +43,8 @@
   },
   "devServer": {
     "disableHostCheck": true
+  },
+  "devDependencies": {
+    "react-social-icons": "^4.1.0"
   }
 }
