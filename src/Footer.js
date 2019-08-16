@@ -5,7 +5,6 @@ import './App.css';
 class Footer extends Component {
   render() {
     return (
-
       <div id="foot-page">
         <footer className="site-footer">
 
